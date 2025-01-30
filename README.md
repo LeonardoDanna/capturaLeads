@@ -38,6 +38,8 @@ Para utilizar a ferramenta, basta rodar o script principal:
 python CapturaLeads.py
 ```
 
-https://github.com/user-attachments/assets/e628ed3e-04e8-439d-8491-0a9f34d313af
+https://github.com/user-attachments/assets/42bfb2fc-7eb0-40e6-80b0-49e39495d290
+
+
 
 
