@@ -36,3 +36,8 @@ Para utilizar a ferramenta, basta rodar o script principal:
 
 ```bash
 python CapturaLeads.py
+
+
+https://github.com/user-attachments/assets/e628ed3e-04e8-439d-8491-0a9f34d313af
+
+
